@@ -1,2 +1,2 @@
-# C-_Study
+# C++Study
 Studying C++
