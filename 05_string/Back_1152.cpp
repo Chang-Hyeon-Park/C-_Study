@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string.>
+#include <string>
 using namespace std;
 int main(int argc, char argv[]) {
 	ios_base::sync_with_stdio(false);
@@ -25,3 +25,9 @@ int main(int argc, char argv[]) {
 
 	return 0;
 }
+
+
+//cin >> str : 공백 문자가 나타날때까지만 저장
+//즉, 공백을 포함한 문장을 저장할 수는 없다
+//getlin(cin,str) : 공백 문자를 포함해서 문장을
+//저장할 수 있다.
